@@ -14,6 +14,6 @@ Alexey Pronin ([@vulnbe](https://twitter.com/vulnbe))
 ## References
 
 * [Rebar3 vulnerability analysis](https://vuln.be/post/rebar3-command-injection/)
-* [Rebar3 on github](https://github.com/erlang/rebar3)
+* [Vulnerability remediation PR](https://github.com/erlang/rebar3/pull/2302)
 * [CVE-2020-13802](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-13802)
 * [CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')](https://cwe.mitre.org/data/definitions/78.html)
